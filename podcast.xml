@@ -4,7 +4,7 @@
     <title>Topaz</title>
     <link>https://cungunglaodong24h.vn</link>
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
-    <description>Cung ứng lao động uy tín, hàng đầu tại TP,HCM</description>
+    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
     <language>vi</language>
     <lastBuildDate>Mon, 07 Sep 2026 11:30:57 +0000</lastBuildDate>
     <itunes:author>Topaz</itunes:author>
@@ -37,6 +37,19 @@
       <pubDate>Mon, 07 Sep 2026 11:14:41 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12207.mp3" length="400391" type="audio/mpeg"/>
       <itunes:duration>0:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[TOPAZ – HCM] TUYỂN DỤNG – KẾ TOÁN LƯƠNG</title>
+      <link>https://cungunglaodong24h.vn/tuyen-dung-ke-toan-luong/</link>
+      <description>🔎 Công việc: Kiểm tra, đối chiếu dữ liệu chấm công, nghỉ phép, nghỉ bệnh từ phòng QLDA với thanh…
+
+Đọc bài gốc: https://cungunglaodong24h.vn/tuyen-dung-ke-toan-luong/</description>
+      <guid isPermaLink="false">wp-12195</guid>
+      <pubDate>Mon, 07 Sep 2026 09:13:09 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12195.mp3" length="442774" type="audio/mpeg"/>
+      <itunes:duration>0:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
