@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Topaz</title>
+    <link>https://cungunglaodong24h.vn</link>
+    <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Cung ứng lao động uy tín, hàng đầu tại TP,HCM</description>
+    <language>vi</language>
+    <lastBuildDate>Mon, 07 Sep 2026 11:14:41 +0000</lastBuildDate>
+    <itunes:author>Topaz</itunes:author>
+    <itunes:owner><itunes:name>Topaz</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast/cover.jpg"/>
+    <image><url>https://nhngoc1102003-cmyk.github.io/podcast/cover.jpg</url><title>Topaz</title><link>https://cungunglaodong24h.vn</link></image>
+    <itunes:category text="News"></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[TOPAZ – BÀU BÀNG] TUYỂN CHUYÊN VIÊN CUNG ỨNG NHÂN SỰ (QLDA)</title>
+      <link>https://cungunglaodong24h.vn/bau-bang-tuyen-chuyen-vien-cung-ung-nhan-su/</link>
+      <description>Mô tả công việc – Chốt bảng công, thu hồ sơ, hỗ trợ lao động khách hàng. – Tuyển dụng,…
+
+Đọc bài gốc: https://cungunglaodong24h.vn/bau-bang-tuyen-chuyen-vien-cung-ung-nhan-su/</description>
+      <guid isPermaLink="false">wp-12207</guid>
+      <pubDate>Mon, 07 Sep 2026 11:14:41 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12207.mp3" length="400391" type="audio/mpeg"/>
+      <itunes:duration>0:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
