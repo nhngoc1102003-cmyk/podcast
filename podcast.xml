@@ -4,7 +4,7 @@
     <title>Topaz</title>
     <link>https://cungunglaodong24h.vn</link>
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
-    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
+    <description>Cung ứng lao động uy tín, chất lượng cao tại TP.HCM</description>
     <language>vi</language>
     <lastBuildDate>Mon, 07 Sep 2026 11:30:57 +0000</lastBuildDate>
     <itunes:author>Topaz</itunes:author>
@@ -63,6 +63,19 @@
       <pubDate>Mon, 07 Sep 2026 09:13:09 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12195.mp3" length="442774" type="audio/mpeg"/>
       <itunes:duration>0:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dịch vụ cung ứng lao động Hà Nội uy tín và chất lượng</title>
+      <link>https://cungunglaodong24h.vn/cung-ung-lao-dong/ha-noi/</link>
+      <description>Hà Nội, thủ đô sôi động với tốc độ phát triển kinh tế vượt bậc, là điểm đến lý tưởng cho các doanh nghiệp lớn nhỏ. Nhu cầu về nguồn nhân lực tại đây không ngừng gia tăng, đặc biệt là lao động chất lượng cao. Tuy nhiên, việc tìm kiếm ứng viên phù hợp với năng lực và yêu cầu công việc không phải là điều dễ dàng.
+
+Đọc bài gốc: https://cungunglaodong24h.vn/cung-ung-lao-dong/ha-noi/</description>
+      <guid isPermaLink="false">wp-2692</guid>
+      <pubDate>Sat, 25 Apr 2026 01:02:16 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2692.mp3" length="4390007" type="audio/mpeg"/>
+      <itunes:duration>9:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
