@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:27:42 +0000</lastBuildDate>
     <itunes:author>Topaz</itunes:author>
     <itunes:owner><itunes:name>Topaz</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast/cover.jpg"/>
@@ -14,58 +14,6 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>[TOPAZ – HCM] TUYỂN ADMIN TẠO NGUỒN (TUYỂN DỤNG)</title>
-      <link>https://cungunglaodong24h.vn/tuyen-admin-tao-nguon/</link>
-      <description>Mô tả công việc – Tạo nguồn ứng viên, tuyển dụng lao động. – Xây dựng, phát triển các kênh…
-
-Đọc bài gốc: https://cungunglaodong24h.vn/tuyen-admin-tao-nguon/</description>
-      <guid isPermaLink="false">wp-12211</guid>
-      <pubDate>Mon, 07 Sep 2026 11:30:57 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12211.mp3" length="393680" type="audio/mpeg"/>
-      <itunes:duration>0:49</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>[TOPAZ – BÀU BÀNG] TUYỂN CHUYÊN VIÊN CUNG ỨNG NHÂN SỰ (QLDA)</title>
-      <link>https://cungunglaodong24h.vn/bau-bang-tuyen-chuyen-vien-cung-ung-nhan-su/</link>
-      <description>Mô tả công việc – Chốt bảng công, thu hồ sơ, hỗ trợ lao động khách hàng. – Tuyển dụng,…
-
-Đọc bài gốc: https://cungunglaodong24h.vn/bau-bang-tuyen-chuyen-vien-cung-ung-nhan-su/</description>
-      <guid isPermaLink="false">wp-12207</guid>
-      <pubDate>Mon, 07 Sep 2026 11:14:41 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12207.mp3" length="400391" type="audio/mpeg"/>
-      <itunes:duration>0:50</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>[TOPAZ – LONG AN] TUYỂN CHUYÊN VIÊN CUNG ỨNG NHÂN SỰ (QLDA)</title>
-      <link>https://cungunglaodong24h.vn/tuyen-chuyen-vien-cung-ung-nhan-su/</link>
-      <description>Mô tả công việc – Chốt bảng công, thu hồ sơ, hỗ trợ lao động khách hàng. – Tuyển dụng,…
-
-Đọc bài gốc: https://cungunglaodong24h.vn/tuyen-chuyen-vien-cung-ung-nhan-su/</description>
-      <guid isPermaLink="false">wp-12202</guid>
-      <pubDate>Mon, 07 Sep 2026 10:43:21 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12202.mp3" length="370296" type="audio/mpeg"/>
-      <itunes:duration>0:46</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>[TOPAZ – HCM] TUYỂN DỤNG – KẾ TOÁN LƯƠNG</title>
-      <link>https://cungunglaodong24h.vn/tuyen-dung-ke-toan-luong/</link>
-      <description>🔎 Công việc: Kiểm tra, đối chiếu dữ liệu chấm công, nghỉ phép, nghỉ bệnh từ phòng QLDA với thanh…
-
-Đọc bài gốc: https://cungunglaodong24h.vn/tuyen-dung-ke-toan-luong/</description>
-      <guid isPermaLink="false">wp-12195</guid>
-      <pubDate>Mon, 07 Sep 2026 09:13:09 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12195.mp3" length="442774" type="audio/mpeg"/>
-      <itunes:duration>0:55</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
       <title>Dịch vụ chuyển nhà trọn gói chuyên nghiệp, an toàn &amp; giá tốt</title>
       <link>https://cungunglaodong24h.vn/dich-vu-chuyen-nha/</link>
@@ -144,19 +92,6 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
       <pubDate>Sat, 24 Jan 2026 04:20:00 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2490.mp3" length="2350589" type="audio/mpeg"/>
       <itunes:duration>4:54</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>[Long An]Topaz đồng hành cùng người lao động tại Hội thảo Việc làm xã Hưng Điền, Long An</title>
-      <link>https://cungunglaodong24h.vn/hoi-thao-viec-lam-xa-hung-dien-long-an/</link>
-      <description>Ngày 7/12/2025 vừa qua, Công ty Cổ phần Nhân lực Topaz đã phối hợp cùng chính quyền xã Hưng Điền…
-
-Đọc bài gốc: https://cungunglaodong24h.vn/hoi-thao-viec-lam-xa-hung-dien-long-an/</description>
-      <guid isPermaLink="false">wp-10096</guid>
-      <pubDate>Sat, 03 Jan 2026 14:10:34 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/10096.mp3" length="788314" type="audio/mpeg"/>
-      <itunes:duration>1:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
